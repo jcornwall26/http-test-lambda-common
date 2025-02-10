@@ -1,4 +1,4 @@
-from logging import start_stop_watch;
+from util import start;
 
 if __name__ == "__main__":
-    start_stop_watch()
+    start(None, None)
